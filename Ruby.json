@@ -10,7 +10,7 @@
   ],
 
   "fonts": {
-    "default": "Trebuchet MS, sans-serif"
+    "default": "Calibri, sans-serif"
   },
 
   "theme_color_map": {
@@ -128,7 +128,7 @@
     ],
    "TEXT_LINK": [
       "#00eaff",
-      "#000000" 
+      "#000000"
     ],
     "KEYBOARD": [
       "#111011",
