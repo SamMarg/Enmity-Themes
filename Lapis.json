@@ -1,6 +1,6 @@
 {
-  "name": "Cobalt",
-  "description": "Theme made by Sam Marg, Based on my favourite colors.",
+  "name": "Lapis",
+  "description": "Theme made by Sam Marg, thanks to STVN for the idea.",
   "version": "0.1",
   "authors": [
     {
@@ -10,12 +10,12 @@
   ],
 
   "fonts": {
-      "default": "Trebuchet MS, sans-serif"
-    },
+    "default": "Trebuchet MS, sans-serif"
+  },
 
   "theme_color_map": {
     "HEADER_PRIMARY": [
-      "#0ef6cd",
+      "#0d34ce",
       "#060607"
     ],
     "HEADER_SECONDARY": [
@@ -27,7 +27,7 @@
       "#2e3338"
     ],
     "TEXT_MUTED": [
-      "#0ef6cd",
+      "#0d34ce",
       "#0d34ce"
     ],
     "INTERACTIVE_NORMAL": [
@@ -135,12 +135,13 @@
       "#FFFFFF"
     ]
   },
+
   "colours": {
     "PRIMARY_DARK": "#747474",
     "PRIMARY_DARK_100": "#FFFFFF",
     "PRIMARY_DARK_200": "#FFFFFF",
     "PRIMARY_DARK_300": "#807c7c",
-    "PRIMARY_DARK_360": "#0ef6cd",
+    "PRIMARY_DARK_360": "#0d34ce",
     "PRIMARY_DARK_400": "#807c7c",
     "PRIMARY_DARK_500": "#34a4fa",
     "PRIMARY_DARK_600": "#111011",
@@ -151,6 +152,7 @@
     "STATUS_RED": "#0d34ce",
     "STATUS_GREEN_600": "#0d34ce"
   },
+
   "unsafe_colors": {
     "CHAT_GREY": "#111011"
   }
